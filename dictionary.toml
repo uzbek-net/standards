@@ -1,10 +1,30 @@
-# Biron kategoriya
-[asosiy]
-
 # Lug'atlar
-"Infiltrating" = "Kirish"
-"Debug" = "Taftish"
-"Sensor" = "Sensor"
-"Multi threaded" = "Ko'p oqimli"
-"Single threaded" = "Bir oqimli"
+[[translations]]
+source = "Infiltrating"
+target = "Kirish"
+description = ""
 
+[[translations]]
+source = "Debug"
+target = "Taftish"
+description = ""
+
+[[translations]]
+source = "Sensor"
+target = "Sensor"
+description = ""
+
+[[translations]]
+source = "Multithread"
+target = "Ko'p oqimli"
+description = "Ko'p oqimli ishlov berish jarayoni haqida atama."
+
+[[translations]]
+source = "Single thread"
+target = "Bir oqimli"
+description = "Bitta oqim bilan ishlaydigan jarayon."
+
+[[translations]]
+source = "Concurrency"
+target = "Parallel ishlash"
+description = "Bir nechta vazifalarni bir vaqtda boshqarish."
