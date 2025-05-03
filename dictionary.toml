@@ -3,28 +3,48 @@
 source = "Infiltrating"
 target = "Kirish"
 description = ""
+pronunciation_uz = ""
 
 [[translations]]
 source = "Debug"
 target = "Taftish"
 description = ""
+pronunciation_uz = ""
 
 [[translations]]
 source = "Sensor"
 target = "Sensor"
 description = ""
+pronunciation_uz = "sensr"
 
 [[translations]]
 source = "Multithread"
 target = "Ko'p oqimli"
 description = "Ko'p oqimli ishlov berish jarayoni haqida atama."
+pronunciation_uz = ""
 
 [[translations]]
 source = "Single thread"
 target = "Bir oqimli"
 description = "Bitta oqim bilan ishlaydigan jarayon."
+pronunciation_uz = ""
 
 [[translations]]
 source = "Concurrency"
 target = "Parallel ishlash"
 description = "Bir nechta vazifalarni bir vaqtda boshqarish."
+pronunciation_uz = ""
+
+[[translations]]
+source = "parse"
+target = "parse"
+description = ""
+pronunciation_uz = "pars"
+
+[[translations]]
+source = "parsing"
+target = "parsing"
+description = ""
+pronunciation_uz = "parsing"
+
+
