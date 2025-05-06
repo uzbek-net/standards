@@ -47,4 +47,10 @@ target = "parsing"
 description = ""
 pronunciation_uz = "parsing"
 
+[[translations]]
+source = "IT"
+target = "AyTi"
+description = ""
+pronunciation_uz = "ayti"
+
 
