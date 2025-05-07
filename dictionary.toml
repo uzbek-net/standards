@@ -65,4 +65,8 @@ target = "Ruxsat"
 description = "tasdiqlash deb tarjima chiqyapti lekin ruxsat ma'nosida keldi ko'pincha meni tajribamda"
 pronunciation_uz = ""
 
-
+[[translations]]
+source = "Option"
+target = "Tanlov"
+description = ""
+pronunciation_uz = ""
