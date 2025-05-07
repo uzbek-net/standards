@@ -53,4 +53,16 @@ target = "AyTi"
 description = ""
 pronunciation_uz = "ayti"
 
+[[translations]]
+source = "Authentication"
+target = "Foydalanuvchini tekshirish"
+description = ""
+pronunciation_uz = ""
+
+[[translations]]
+source = "Authorization"
+target = "Foydalanuvchi rolini aniqlash"
+description = ""
+pronunciation_uz = ""
+
 
