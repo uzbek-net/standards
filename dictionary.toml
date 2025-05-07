@@ -55,14 +55,14 @@ pronunciation_uz = "ayti"
 
 [[translations]]
 source = "Authentication"
-target = "Foydalanuvchini tekshirish"
+target = "Tasdiqlash"
 description = ""
 pronunciation_uz = ""
 
 [[translations]]
 source = "Authorization"
-target = "Foydalanuvchi rolini aniqlash"
-description = ""
+target = "Ruxsat"
+description = "tasdiqlash deb tarjima chiqyapti lekin ruxsat ma'nosida keldi ko'pincha meni tajribamda"
 pronunciation_uz = ""
 
 
