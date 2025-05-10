@@ -1,72 +1,78 @@
 # Lug'atlar
 [[translations]]
-source = "Infiltrating"
-target = "Kirish"
+en = "Infiltrating"
+uz = "Kirish"
 description = ""
 pronunciation_uz = ""
 
 [[translations]]
-source = "Debug"
-target = "Taftish"
+en = "Debug"
+uz = "Taftish"
 description = ""
 pronunciation_uz = ""
 
 [[translations]]
-source = "Sensor"
-target = "Sensor"
+en = "Sensor"
+uz = "Sensor"
 description = ""
 pronunciation_uz = "sensr"
 
 [[translations]]
-source = "Multithread"
-target = "Ko'p oqimli"
+en = "Multithread"
+uz = "Ko'p oqimli"
 description = "Ko'p oqimli ishlov berish jarayoni haqida atama."
 pronunciation_uz = ""
 
 [[translations]]
-source = "Single thread"
-target = "Bir oqimli"
+en = "Single thread"
+uz = "Bir oqimli"
 description = "Bitta oqim bilan ishlaydigan jarayon."
 pronunciation_uz = ""
 
 [[translations]]
-source = "Concurrency"
-target = "Parallel ishlash"
+en = "Concurrency"
+uz = "Parallel ishlash"
 description = "Bir nechta vazifalarni bir vaqtda boshqarish."
 pronunciation_uz = ""
 
 [[translations]]
-source = "parse"
-target = "parse"
+en = "parse"
+uz = "parse"
 description = ""
 pronunciation_uz = "pars"
 
 [[translations]]
-source = "parsing"
-target = "parsing"
+en = "parsing"
+uz = "parsing"
 description = ""
 pronunciation_uz = "parsing"
 
 [[translations]]
-source = "IT"
-target = "AyTi"
+en = "IT"
+uz = "AyTi"
 description = ""
 pronunciation_uz = "ayti"
 
 [[translations]]
-source = "Authentication"
-target = "Tasdiqlash"
+en = "Authentication"
+uz = "Tasdiqlash"
 description = ""
 pronunciation_uz = ""
 
 [[translations]]
-source = "Authorization"
-target = "Ruxsat"
+en = "Authorization"
+uz = "Ruxsat"
 description = "tasdiqlash deb tarjima chiqyapti lekin ruxsat ma'nosida keldi ko'pincha meni tajribamda"
 pronunciation_uz = ""
 
 [[translations]]
-source = "Option"
-target = "Tanlov"
+en = "Option"
+uz = "Tanlov"
 description = ""
 pronunciation_uz = ""
+
+[[translations]]
+en = "Framework"
+uz = "Freymvork"
+description = ""
+pronunciation_uz = "Freymvo'rk"
