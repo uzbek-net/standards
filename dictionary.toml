@@ -76,3 +76,15 @@ en = "Framework"
 uz = "Freymvork"
 description = ""
 pronunciation_uz = "Freymvo'rk"
+
+[[translations]]
+en = "Folder"
+uz = "Papka"
+description = ""
+pronunciation_uz = ""
+
+[[translations]]
+en = "Directory"
+uz = "Katalog"
+description = ""
+pronunciation_uz = ""
