@@ -88,3 +88,9 @@ en = "Directory"
 uz = "Katalog"
 description = ""
 pronunciation_uz = ""
+
+[[translations]]
+en = "Branch"
+uz = ""
+description = ""
+pronunciation_uz = ""
