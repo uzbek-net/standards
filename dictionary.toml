@@ -142,3 +142,33 @@ en = "Fuzzy"
 uz = ""
 description = ""
 pronunciation_uz = ""
+
+[[translations]]
+en = "Progress"
+uz = ""
+description = ""
+pronunciation_uz = ""
+
+[[translations]]
+en = "Error"
+uz = ""
+description = ""
+pronunciation_uz = ""
+
+[[translations]]
+en = "Reviewer"
+uz = ""
+description = ""
+pronunciation_uz = ""
+
+[[translations]]
+en = "Review"
+uz = ""
+description = ""
+pronunciation_uz = ""
+
+[[translations]]
+en = "workflow"
+uz = ""
+description = ""
+pronunciation_uz = ""
