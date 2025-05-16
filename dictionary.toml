@@ -100,3 +100,9 @@ en = "account"
 uz = ""
 description = ""
 pronunciation_uz = ""
+
+[[translations]]
+en = "username"
+uz = ""
+description = ""
+pronunciation_uz = ""
