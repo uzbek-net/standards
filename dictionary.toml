@@ -196,3 +196,9 @@ en = "Firmware"
 uz = ""
 description = ""
 pronunciation_uz = ""
+
+[[translations]]
+en = "charge"
+uz = "quvvat"
+description = ""
+pronunciation_uz = ""
