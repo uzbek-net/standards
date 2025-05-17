@@ -178,3 +178,15 @@ en = "scrape"
 uz = ""
 description = ""
 pronunciation_uz = ""
+
+[[translations]]
+en = "Repository"
+uz = ""
+description = ""
+pronunciation_uz = ""
+
+[[translations]]
+en = "Feedback"
+uz = ""
+description = ""
+pronunciation_uz = ""
