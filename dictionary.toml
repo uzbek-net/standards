@@ -7,7 +7,13 @@ pronunciation_uz = ""
 
 [[translations]]
 en = "Debug"
-uz = "Taftish"
+uz = "Debag"
+description = ""
+pronunciation_uz = ""
+
+[[translations]]
+en = "Debugging"
+uz = "Debaglash"
 description = ""
 pronunciation_uz = ""
 
