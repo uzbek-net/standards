@@ -10,5 +10,5 @@ PR orqali qo'shib boriladi, PR bu taklif, qabul qilinishi esa ishlatilayotganida
 
 Lug'at sxemasida ishlaydi, faqat chiqgandan so'ng eski ishlatilgan holatlar ham shunga qarab to'g'irlanishi kerak. `documents` papkasida raqam ketma ketligini saqlagan holda yozilib ketilaveradi. Raqamlash PR qabul qilingandan keyin kechadi.
 
-U+02BC - ʼ tutuq belgisi
-U+02BB - ʻ oʻ va gʻ harfida ishlatiladigan belgi
+#### U+02BC - <ʼ> tutuq belgisi
+#### U+02BB - <ʻ> oʻ va gʻ harfida ishlatiladigan belgi
