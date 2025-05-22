@@ -5,6 +5,7 @@ msgstr ""
 msgid "Infiltrating"
 msgstr "Kirish"
 
+#. Kod yozishda xatolik kelib chiqsa kodni debag qilish kerak boʻladi
 msgid "Debug"
 msgstr "Debag"
 
@@ -14,12 +15,15 @@ msgstr "Debaglash"
 msgid "Sensor"
 msgstr "Sensor"
 
+#. Ko'p oqimli ishlov berish jarayoni haqida atama.
 msgid "Multithread"
 msgstr "Ko'p oqimli"
 
+#. Bitta oqim bilan ishlaydigan jarayon.
 msgid "Single thread"
 msgstr "Bir oqimli"
 
+#. Bir nechta vazifalarni bir vaqtda boshqarish.
 msgid "Concurrency"
 msgstr "Parallel ishlash"
 
@@ -35,6 +39,8 @@ msgstr "AyTi"
 msgid "Authentication"
 msgstr "Tasdiqlash"
 
+#. tasdiqlash deb tarjima chiqyapti lekin ruxsat ma'nosida keldi ko'pincha
+#. meni tajribamda
 msgid "Authorization"
 msgstr "Ruxsat"
 
