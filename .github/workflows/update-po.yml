@@ -7,6 +7,10 @@ on:
     paths:
       - dictionary.toml
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   update-uz-po:
     runs-on: ubuntu-latest
