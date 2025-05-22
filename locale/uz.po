@@ -1,0 +1,111 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Infiltrating"
+msgstr "Kirish"
+
+msgid "Debug"
+msgstr "Debag"
+
+msgid "Debugging"
+msgstr "Debaglash"
+
+msgid "Sensor"
+msgstr "Sensor"
+
+msgid "Multithread"
+msgstr "Ko'p oqimli"
+
+msgid "Single thread"
+msgstr "Bir oqimli"
+
+msgid "Concurrency"
+msgstr "Parallel ishlash"
+
+msgid "parse"
+msgstr "pars"
+
+msgid "parsing"
+msgstr "parsing"
+
+msgid "IT"
+msgstr "AyTi"
+
+msgid "Authentication"
+msgstr "Tasdiqlash"
+
+msgid "Authorization"
+msgstr "Ruxsat"
+
+msgid "Option"
+msgstr "Tanlov"
+
+msgid "Framework"
+msgstr "Freymvork"
+
+msgid "Folder"
+msgstr "Jild"
+
+msgid "Directory"
+msgstr "Katalog"
+
+msgid "Branch"
+msgstr ""
+
+msgid "account"
+msgstr "hisob"
+
+msgid "username"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "layout"
+msgstr ""
+
+msgid "release"
+msgstr ""
+
+msgid "Category"
+msgstr "Tasnif"
+
+msgid "Original"
+msgstr "Asl nusxa"
+
+msgid "Fuzzy"
+msgstr ""
+
+msgid "Progress"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Reviewer"
+msgstr ""
+
+msgid "Review"
+msgstr ""
+
+msgid "workflow"
+msgstr ""
+
+msgid "scrape"
+msgstr ""
+
+msgid "Repository"
+msgstr ""
+
+msgid "Feedback"
+msgstr "Sharh"
+
+msgid "Firmware"
+msgstr ""
+
+msgid "charge"
+msgstr "quvvat"
+
+msgid "citizen"
+msgstr "vatandosh"
