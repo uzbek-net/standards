@@ -9,7 +9,7 @@ similar = [""]
 [[translations]]
 en = "Debug"
 uz = "Debag"
-description = ""
+description = "Kod yozishda xatolik kelib chiqsa kodni debag qilish kerak boʻladi"
 pronunciation_uz = ""
 similar = [""]
 
