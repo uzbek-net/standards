@@ -115,3 +115,6 @@ msgstr "quvvat"
 
 msgid "citizen"
 msgstr "vatandosh"
+
+msgid "Two-step verification"
+msgstr "Ikki bosqichli tasdiqlash"
