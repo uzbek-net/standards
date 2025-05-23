@@ -250,3 +250,10 @@ uz = "vatandosh"
 description = ""
 pronunciation_uz = ""
 similar = ["fuqaro"]
+
+[[translations]]
+en = "Two-step verification"
+uz = "Ikki bosqichli tasdiqlash"
+description = ""
+pronunciation_uz = ""
+similar = [""]
