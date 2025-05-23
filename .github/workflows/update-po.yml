@@ -27,7 +27,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run converter.py
-        run: python converter.py
+        run: python ./scripts/toml2po_converter.py
 
       - name: Commit and push uz.po
         run: |
