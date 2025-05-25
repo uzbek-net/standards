@@ -16,6 +16,7 @@ pkgs.stdenv.mkDerivation {
     # Utilities
     git
     just
+    mdbook
 
     # Toml
     taplo
