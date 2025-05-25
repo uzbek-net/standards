@@ -1,0 +1,6 @@
+[book]
+title        = "O'zbek Tili Standartlari"
+language     = "uz"
+multilingual = false
+src          = "src"
+authors      = ["Sokhibjon Orzikulov"]
