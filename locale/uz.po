@@ -17,7 +17,7 @@ msgstr "Sensor"
 
 #. Ko'p oqimli ishlov berish jarayoni haqida atama.
 msgid "Multithread"
-msgstr "Ko'p oqimli"
+msgstr "Koʻp oqimli"
 
 #. Bitta oqim bilan ishlaydigan jarayon.
 msgid "Single thread"
