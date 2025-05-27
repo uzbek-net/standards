@@ -1,0 +1,1 @@
+# Bilishingiz kerak boʻlgan narsalar
