@@ -1,1 +1,0 @@
-# Oʻzbek tili haqida

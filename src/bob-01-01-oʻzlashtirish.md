@@ -7,4 +7,3 @@
 Shu 3 ta narsani o'rtasidagini olib tanlagan yaxshi
 
 Qo'llanma tayyorlanyapti...
-
