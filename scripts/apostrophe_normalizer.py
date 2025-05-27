@@ -11,7 +11,7 @@ def normalize_apostrophes(po_file_path):
     po = polib.pofile(po_file_path)
     
     # Define a regex pattern to match different apostrophe characters
-    apostrophe_pattern = re.compile(r"[’‘`]")
+    # apostrophe_pattern = re.compile(r"[’‘`]")
     
     
     # Iterate through each entry in the .po file
@@ -22,14 +22,14 @@ def normalize_apostrophes(po_file_path):
             entry.msgstr = re.sub("o'", "oʻ", entry.msgstr)
             entry.msgstr = re.sub("G'", "Gʻ", entry.msgstr)
             entry.msgstr = re.sub("g'", "gʻ", entry.msgstr)
-            entry.msgstr = re.sub("'", "ʼ", entry.msgstr)
+            # entry.msgstr = re.sub("'", "ʼ", entry.msgstr)
     
     # Save the changes back to the .po file
     po.save(po_file_path)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Normalize apostrophes in a .po file.")
-    parser.add_argument("po_file", help="Path to the .po file to normalize.")
+    parser.add_argument("--po_file", help="Path to the .po file to normalize.", required=True)
     
     args = parser.parse_args()
     
