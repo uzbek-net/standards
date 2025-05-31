@@ -136,5 +136,8 @@ msgstr "pochta"
 msgid "suspend"
 msgstr "uyqu holati"
 
-msgid "mail"
-msgstr "pochta"
+msgid "matherboard"
+msgstr "ona plata"
+
+msgid "emoji"
+msgstr "hisbelgi"
