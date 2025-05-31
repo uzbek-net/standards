@@ -294,9 +294,15 @@ pronunciation_uz = ""
 similar = ["sleep"]
 
 [[translations]]
-en = "mail"
-uz = "pochta"
+en = "matherboard"
+uz = "ona plata"
+description = ""
+pronunciation_uz = ""
+similar = ["bosh plata", "bosh qismi iya"]
+
+[[translations]]
+en = "emoji"
+uz = "hisbelgi"
 description = ""
 pronunciation_uz = ""
 similar = [""]
-
