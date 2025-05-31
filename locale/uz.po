@@ -17,7 +17,7 @@ msgstr "Sensor"
 
 #. Ko'p oqimli ishlov berish jarayoni haqida atama.
 msgid "Multithread"
-msgstr "Koʻp oqimli"
+msgstr "Ko'p oqimli"
 
 #. Bitta oqim bilan ishlaydigan jarayon.
 msgid "Single thread"
@@ -63,8 +63,9 @@ msgid "account"
 msgstr "hisob"
 
 msgid "username"
-msgstr ""
+msgstr "User nomi"
 
+#. qiyinchilik darajasi
 msgid "Advanced"
 msgstr ""
 
@@ -118,3 +119,22 @@ msgstr "vatandosh"
 
 msgid "Two-step verification"
 msgstr "Ikki bosqichli tasdiqlash"
+
+msgid "copy"
+msgstr "nusxa olish"
+
+msgid "favorites"
+msgstr "saralanganlar"
+
+msgid "e-mail"
+msgstr "e-pochta"
+
+msgid "mail"
+msgstr "pochta"
+
+#. kopyuterni dipleyini o'chitib qo'yish lekin quvvatdan uzilmagan holda
+msgid "suspend"
+msgstr "uyqu holati"
+
+msgid "mail"
+msgstr "pochta"
