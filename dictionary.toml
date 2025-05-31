@@ -127,7 +127,7 @@ similar = [""]
 
 [[translations]]
 en = "username"
-uz = ""
+uz = "User nomi"
 description = ""
 pronunciation_uz = ""
 similar = [""]
@@ -135,7 +135,7 @@ similar = [""]
 [[translations]]
 en = "Advanced"
 uz = ""
-description = ""
+description = "qiyinchilik darajasi"
 pronunciation_uz = ""
 similar = [""]
 
@@ -257,3 +257,46 @@ uz = "Ikki bosqichli tasdiqlash"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+
+[[translations]]
+en = "copy"
+uz = "nusxa olish"
+description = ""
+pronunciation_uz = ""
+similar = ["nusxalash"]
+
+[[translations]]
+en = "favorites"
+uz = "saralanganlar"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+
+[[translations]]
+en = "e-mail"
+uz = "e-pochta"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+
+[[translations]]
+en = "mail"
+uz = "pochta"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+
+[[translations]]
+en = "suspend"
+uz = "uyqu holati"
+description = "kopyuterni dipleyini o'chitib qo'yish lekin quvvatdan uzilmagan holda"
+pronunciation_uz = ""
+similar = ["sleep"]
+
+[[translations]]
+en = "mail"
+uz = "pochta"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+
