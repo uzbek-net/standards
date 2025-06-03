@@ -20,9 +20,14 @@ def normalize_apostrophes(po_file_path):
             # Replace all variations of apostrophes with the standard single quote
             entry.msgstr = re.sub("O'", "Oʻ", entry.msgstr)
             entry.msgstr = re.sub("o'", "oʻ", entry.msgstr)
+            entry.msgstr = re.sub("O‘", "O‘", entry.msgstr)
+            entry.msgstr = re.sub("o‘", "o‘", entry.msgstr)
             entry.msgstr = re.sub("G'", "Gʻ", entry.msgstr)
             entry.msgstr = re.sub("g'", "gʻ", entry.msgstr)
+            entry.msgstr = re.sub("G‘", "G‘", entry.msgstr)
+            entry.msgstr = re.sub("g‘", "g‘", entry.msgstr)
             entry.msgstr = re.sub("'", "ʼ", entry.msgstr)
+            entry.msgstr = re.sub("’", "ʼ", entry.msgstr)
             # xozir bu yerga '' gap sifatida kelsa 2 ta tutuq belgi boʻlib qolmasin
             # tayyor roʻyhat boʻlganida soʻzlarni search qilib replace qilardik manimcha
     
