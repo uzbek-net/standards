@@ -28,8 +28,6 @@ def normalize_apostrophes(po_file_path):
             entry.msgstr = re.sub("g‘", "g‘", entry.msgstr)
             entry.msgstr = re.sub("'", "ʼ", entry.msgstr)
             entry.msgstr = re.sub("’", "ʼ", entry.msgstr)
-            # xozir bu yerga '' gap sifatida kelsa 2 ta tutuq belgi boʻlib qolmasin
-            # tayyor roʻyhat boʻlganida soʻzlarni search qilib replace qilardik manimcha
     
     # Save the changes back to the .po file
     po.save(po_file_path)
