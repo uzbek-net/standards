@@ -306,3 +306,24 @@ uz = "hisbelgi"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+
+[[translations]]
+en = "september"
+uz = "sentyabr"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+
+[[translations]]
+en = "october"
+uz = "oktyabr"
+description = ""
+pronunciation_uz = ""
+similar = [""]
+
+[[translations]]
+en = "november"
+uz = "noyabr"
+description = ""
+pronunciation_uz = ""
+similar = [""]
