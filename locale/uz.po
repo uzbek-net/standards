@@ -15,9 +15,9 @@ msgstr "Debaglash"
 msgid "Sensor"
 msgstr "Sensor"
 
-#. Ko'p oqimli ishlov berish jarayoni haqida atama.
+#. Koʻp oqimli ishlov berish jarayoni haqida atama.
 msgid "Multithread"
-msgstr "Ko'p oqimli"
+msgstr "Koʻp oqimli"
 
 #. Bitta oqim bilan ishlaydigan jarayon.
 msgid "Single thread"
@@ -39,7 +39,7 @@ msgstr "AyTi"
 msgid "Authentication"
 msgstr "Tasdiqlash"
 
-#. tasdiqlash deb tarjima chiqyapti lekin ruxsat ma'nosida keldi ko'pincha
+#. tasdiqlash deb tarjima chiqyapti lekin ruxsat maʼnosida keldi koʻpincha
 #. meni tajribamda
 msgid "Authorization"
 msgstr "Ruxsat"
@@ -132,7 +132,7 @@ msgstr "e-pochta"
 msgid "mail"
 msgstr "pochta"
 
-#. kopyuterni dipleyini o'chitib qo'yish lekin quvvatdan uzilmagan holda
+#. kopyuterni dipleyini oʻchitib qoʻyish lekin quvvatdan uzilmagan holda
 msgid "suspend"
 msgstr "uyqu holati"
 
