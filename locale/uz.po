@@ -150,3 +150,13 @@ msgstr "oktyabr"
 
 msgid "november"
 msgstr "noyabr"
+
+#. 12 soatli vaqt turi: 11:00 am va 9:00 pm. TO - tushlikdan oldin, TK -
+#. tushlikdan keyin
+msgid "AM"
+msgstr "TO"
+
+#. 12 soatli vaqt turi: 11:00 am va 9:00 pm. TO - tushlikdan oldin, TK -
+#. tushlikdan keyin
+msgid "PM"
+msgstr "TK"
