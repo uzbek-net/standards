@@ -327,3 +327,17 @@ uz = "noyabr"
 description = ""
 pronunciation_uz = ""
 similar = [""]
+
+[[translations]]
+en = "AM"
+uz = "TO"
+description = "12 soatli vaqt turi: 11:00 am va 9:00 pm. TO - tushlikdan oldin, TK - tushlikdan keyin"
+pronunciation_uz = "tushlikdan oldin"
+similar = [""]
+
+[[translations]]
+en = "PM"
+uz = "TK"
+description = "12 soatli vaqt turi: 11:00 am va 9:00 pm. TO - tushlikdan oldin, TK - tushlikdan keyin"
+pronunciation_uz = "tushlikdan keyin"
+similar = [""]
