@@ -76,7 +76,7 @@ msgid "release"
 msgstr ""
 
 msgid "Category"
-msgstr "Tasnif"
+msgstr ""
 
 msgid "Original"
 msgstr "Asl nusxa"
