@@ -1,9 +1,8 @@
 # Uzbek Localization
 
-[Uzbek Localization](./uzbekl10n.md)
-[Muqaddima](./muqaddima.md)
+[Uzbek Localization](./bob-00-00-uzbekl10n.md)
+[Muqaddima](./bob-00-01-muqaddima.md)
 
 [Kirish]
-- [Alifbo](./alifbo.md)
-- [Chapter 1](./chapter_1.md)
-- [Chapter 2](./chapter_2.md)
+- [Alifbo](./bob-01-00-alifbo.md)
+- [Oʻzlashtirish](./bob-01-01-oʻzlashtirish.md)
