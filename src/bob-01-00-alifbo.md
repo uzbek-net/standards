@@ -2,6 +2,8 @@
 
 ## Tutuq belgisi, oʻ va gʻ harflari
 
+![Saida Mirziyoyeva. Oʻzbekiston soʻzining yozilishi](images/saida-mirziyoyeva-ozbekiston.jpg)
+
 Oʻzbek lotin alifbosi 1995-yildagi islohotlardan soʻng, oʻ va gʻ harflaridagi teskari vergul hamda tutuq belgisi uchun kompyuter tizimlarida qanday belgi ishlatilishi aniq belgilanmagan. Bu holat raqamli tizimlarda, xususan, veb-saytlar va ijtimoiy tarmoqlarda katta chalkashliklarga sabab boʻlmoqda. Hozirda bir nechta belgilar aralash holda qoʻllanilmoqda, masalan:
 
 | Belgi | Unicode | Misol |
@@ -15,7 +17,7 @@ Oʻzbek lotin alifbosi 1995-yildagi islohotlardan soʻng, oʻ va gʻ harflaridag
 
 Bu standartning yoʻqligi bir qancha jiddiy muammolarni keltirib chiqaradi:
 
-1. **Matn qidirish qiyinlashadi.** Qidiruv tizimlari va dasturlar soʻzlardagi turli apostrof belgilari farqli belgilar deb hisoblaydi. Natijada, bir xil soʻz uchun har xil yozuvlar mavjud boʻlib, qidiruv natijalari toʻliq chiqmasligi mumkin. Masalan, "O'zbekiston" deb qidirgan foydalanuvchi "Oʻzbekiston" soʻzi bor maʼlumotni topa olmasligi mumkin.
+1. **Matn qidirish qiyinlashadi.** Qidiruv tizimlari va dasturlar soʻzlardagi turli apostrof belgilarini farqli belgilar deb hisoblaydi. Natijada, bir xil soʻz uchun har xil yozuvlar mavjud boʻlib, qidiruv natijalari toʻliq chiqmasligi mumkin. Masalan, "O'zbekiston" deb qidirgan foydalanuvchi "Oʻzbekiston" soʻzi bor maʼlumotni topa olmasligi mumkin.
 
 2. **Apostrof soʻzni ikkiga boʻladi.** Baʼzi dasturlar U+0027 apostrofini (standart klaviaturadagi  \' belgisi) harf sifatida emas, balki soʻzlar orasidagi ajratuvchi belgi deb hisoblaydi. Bu matnni qayta ishlashda, masalan, soʻzlarni sanashda yoki tarjima qilishda muammolarni keltirib chiqaradi.
 
@@ -23,15 +25,15 @@ Bu standartning yoʻqligi bir qancha jiddiy muammolarni keltirib chiqaradi:
 
 ## Yechim: Standartlashtirilgan Belgilarni Tanlash
 
-Bu muammolarni bartaraf etish uchun, oʻzbek tili raqamli muhitini mahalliylashtirish hamjamiyati, standartlashtirish boʻyicha bir qator takliflarni ishlab chiqdi. Bu takliflarga koʻra, rasmiy va texnik jihatdan eng toʻgʻri hisoblangan belgilari qabul qilindi. Bu belgilar:
+Bu muammolarni bartaraf etish uchun, oʻzbek tili raqamli muhitini mahalliylashtirish hamjamiyati, standartlashtirish boʻyicha bir qator takliflarni ishlab chiqdi. Bu takliflarga koʻra, rasmiy va texnik jihatdan eng toʻgʻri hisoblangan belgilar qabul qilindi. Bu belgilar:
 
-- ʻ (U+02BB) — oʻ va gʻ harflaridagi apostrof uchun.
+- ʻ (U+02BB) — oʻ va gʻ harflaridagi teskari vergul uchun.
 
 - ʼ (U+02BC) — tutuq belgisi uchun.
 
 ### Kiritish usullari
 
-Afasuski, hozirda oʻzbek lotin alifbosi uchun standart klaviatura tuzilmasi mavjud emas. Shunga qaramay, yuqorida keltirilgan standart belgilarni bir qancha usullar orqali kiritish mumkin.
+Afsuski, hozirda oʻzbek lotin alifbosi uchun standart klaviatura tuzilmasi mavjud emas. Shunga qaramay, yuqorida keltirilgan standart belgilarni bir qancha usullar orqali kiritish mumkin.
 
 #### Mobil qurilmalar (Android)
 
