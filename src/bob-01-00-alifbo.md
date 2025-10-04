@@ -58,6 +58,6 @@ Linux operatsion tizimlarida oʻzbek lotin klaviaturasi standart oʻrnatilmagan 
 
 ### Havolalar
 
-- https://lex.uz/docs/-112286
-- https://uz.wikipedia.org/wiki/%CA%BB_(belgi)
-- https://uz.wikipedia.org/wiki/%CA%BC_(belgi)
+- [https://lex.uz/docs/-112286](https://lex.uz/docs/-112286)
+- [https://uz.wikipedia.org/wiki/%CA%BB_(belgi)](https://uz.wikipedia.org/wiki/%CA%BB_(belgi))
+- [https://uz.wikipedia.org/wiki/%CA%BB_(belgi)](https://uz.wikipedia.org/wiki/%CA%BC_(belgi))
