@@ -2,6 +2,20 @@
 
 Oʻzbek Mahalliylashtirish hamjamiyati tomonidan yaratilgan va yozilgan qoida va lugʻatlar jamgʻarmasi.
 
+## Dasturchilar uchun
+
+Kitobni localda ishga tushirish.
+```bash
+mdbook serve # kitobni localda ishga tushirish
+```
+
+Agar nix ishlatsangiz dev shellʼga kirib oling.
+```bash
+direnv allow
+
+nix develop -c $SHELL
+```
+
 ## Lugʻat
 
 PR orqali qoʻshib boriladi, PR bu taklif, qabul qilinishi esa ishlatilayotganidan darak beradi. Maʼlumotlar loyihaning `dictionary.toml` faylida jamlanadi.
