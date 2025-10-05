@@ -26,6 +26,10 @@ Tarjima qilishda soʻzning maʼnosi bilan birga uning qoʻllanish konteksti ham 
 
 - Maqsadli auditoriya: Tarjima kim uchun qilinayotganini hisobga olish juda muhim. Masalan, agar texnik matn dasturchilar uchun moʻljallangan boʻlsa, "API" kabi atamalarni transliteratsiya qilish tushunarli boʻladi. Ammo, xuddi shu soʻz oddiy foydalanuvchilar uchun boʻlsa, "dasturiy interfeys" kabi tushuntirish berish yoki toʻliq tarjima qilish yaxshiroq boʻlishi mumkin.
 
+## Lugʻat
+
+Bizning mahalliylashtirish guruhimiz, eng koʻp qoʻllaniladigan soʻzlar va ularning oʻzbekcha tarjimalaridan iborat maxsus [lugʻatni](https://github.com/uzbek-net/dictionary) yuritib boradi. Bu lugʻat doimiy ravishda yangilanadi. Agar sizda lugʻatga kiritish uchun yangi soʻzlar yoki mavjud tarjimalarni yaxshilash boʻyicha takliflar boʻlsa, marhamat, bemalol xabar bering.
+
 ## Tavsiyalar
 - **Qiyinchilikda yechim:** Tarjima qilish qiyin boʻlsa, gap tuzilishini oʻzgartirish, gapni bir nechta qismga boʻlish yoki qoʻshimcha tushuntirishlar berish yaxshi samara beradi. Maqsad – matnning oʻquvchi uchun tushunarli boʻlishi.
 - **Izchillik:** Bir loyiha ichida bir xil soʻz uchun faqat bitta usul (tarjima yoki transliteratsiya) qoʻllanilishi kerak. Masalan, "cloud" soʻzi uchun "bulut" tarjimasi tanlansa, loyiha davomida faqat shu atamadan foydalanish lozim.
