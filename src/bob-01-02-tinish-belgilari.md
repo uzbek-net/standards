@@ -12,12 +12,12 @@ Ingliz tilida raqamli muhitda standart klaviaturadagi " (qoʻsh) va ' (yakka) qo
 
 #### Kiritish usullari
 Tashqi: “...”
-- **HTML kodlari:** `&ldquo;` va `&rdquo;`
-- **Unicode kodlari:** `&#8220;` va `&#8221;`
+- **HTML kodlari:** `&ldquo;` (ochish) va `&rdquo;` (yopish)
+- **Unicode kodlari:** `&#8220;` (ochish) va `&#8221;` (yopish)
 
 Ichki: ‘...’
-- **HTML kodlari:** `&lsquo;` va `&rsquo;`
-- **Unicode kodlari:** `&#8216;` va `&#8217;`
+- **HTML kodlari:** `&lsquo;` (ochish) va `&rsquo;` (yopish)
+- **Unicode kodlari:** `&#8216;` (ochish) va `&#8217;` (yopish)
 
 ---
 
@@ -28,12 +28,12 @@ Ichki: ‘...’
 #### Kiritish usullari
 
 Tashqi: «...»
-- **HTML kodlari:** `&laquo;` va `&raquo;`
-- **Unicode kodlari:** `&#171;` va `&#187;`
+- **HTML kodlari:** `&laquo;` (ochish) va `&raquo;` (yopish)
+- **Unicode kodlari:** `&#171;` (ochish) va `&#187;` (yopish)
 
 Ichki: „...“
 - **HTML kodlari:** yoʻq
-- **Unicode kodlari:** `&#8222;` va `&#8220;`
+- **Unicode kodlari:** `&#8222;` (ochish) va `&#8220;` (yopish)
 
 ## Tire belgilari
 
