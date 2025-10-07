@@ -14,13 +14,13 @@ Oʻzbekistonda sana formatlari uchun quyidagi qoidalar amal qiladi:
 
 ### Standart sana formatlari
 
-- **Qisqa sana formati:** dd.MM.yyyy.
+- **Qisqa sana formati:** dd.MM.yyyy
 
-    - **Misol:** 17.03.2011.
+    - **Misol:** 17.03.2011
 
-- **Uzun sana formati:** yyyy-yil d-MMMM.
+- **Uzun sana formati:** yyyy-yil d-MMMM
 
-    - **Misol:** 2011-yil 3-mart.
+    - **Misol:** 2011-yil 3-mart
 
 #### Format kodlaridagi belgilar
 
@@ -47,18 +47,18 @@ Oʻzbekistonda sana formatlari uchun quyidagi qoidalar amal qiladi:
 
 | Oy (toʻliq shakli) | Qisqartma |
 | - | - |
-| Yanvar | Yan. |
-| Fevral | Fev. |
-| Mart | Mar. |
-| Aprel | Apr. |
+| Yanvar | Yan |
+| Fevral | Fev |
+| Mart | Mar |
+| Aprel | Apr |
 | May | May |
-| Iyun | Iyn. |
-| Iyul | Iyl. |
-| Avgust | Avg. |
-| Sentyabr | Sen. |
-| Oktyabr | Okt. |
-| Noyabr | Noy. |
-| Dekabr | Dek. |
+| Iyun | Iyn |
+| Iyul | Iyl |
+| Avgust | Avg |
+| Sentyabr | Sen |
+| Oktyabr | Okt |
+| Noyabr | Noy |
+| Dekabr | Dek |
 
 ### Hafta kuni va oy nomlari
 
@@ -70,35 +70,35 @@ Oʻzbekistonda sana formatlari uchun quyidagi qoidalar amal qiladi:
 
 - Sana oraliqlar **en dash** bilan yoziladi.
 
-    - **Misol:** 13 yanvar - 15 yanvar.
+    - **Misol:** 13 yanvar - 15 yanvar
 
 ## Vaqt
 
 - **24 soatlik format:** Ha.
 
-- **Vaqt zonasi:** UZT UTC+05:00.
+- **Vaqt zonasi:** UZT UTC+05:00
 
 - **Yozgi vaqtga oʻtish (daylight saving time):**  qoʻllanilmaydi.
 
 - **Standart vaqt formati:** `HH:mm:ss`.
 
-    - **Misol:** 09:25:43; 15:10:31; 23:45:19.
+    - **Misol:** 09:25:43; 15:10:31; 23:45:19
 
 - **Vaqt ajratuvchi:** Ikki nuqta (`:`).
 
-    - **Misol:** 22:34:05.
+    - **Misol:** 22:34:05
 
-- **Soatlar uchun bosh nol belgisi:** Ha.
+- **Soatlar uchun bosh nol belgisi mavjudmi?:** Ha.
 
-    - **Misol:** 07:30:45.
+    - **Misol:** 07:30:45
 
 - **Qisqa vaqt formati:** `HH:mm`.
 
-    - **Misol:** 09:25; 15:10; 23:45.
+    - **Misol:** 09:25; 15:10; 23:45
 
 - **Sana va vaqt formati:** `dd.MM.yyyy HH:mm:ss`
 
-    - **Misol:** 20.04.2015 16:30:00.
+    - **Misol:** 20.04.2015 16:30:00
 
 ## ISO 8601 standarti
 
