@@ -2,7 +2,7 @@
 
 ## Tutuq belgisi, oʻ va gʻ harflari
 
-![Saida Mirziyoyeva. Oʻzbekiston soʻzining yozilishi](../assets/saida-mirziyoyeva-ozbekiston.jpg)
+![Saida Mirziyoyeva. Oʻzbekiston soʻzining yozilishi](./assets/saida-mirziyoyeva-ozbekiston.jpg)
 
 Oʻzbek lotin alifbosi 1995-yildagi islohotlardan soʻng, oʻ va gʻ
 harflaridagi teskari vergul hamda tutuq belgisi uchun kompyuter 
