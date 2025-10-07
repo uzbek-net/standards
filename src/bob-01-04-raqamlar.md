@@ -29,11 +29,6 @@ Pul birliklarini yozishda raqam bilan soʻm yoki tiyin soʻzi orasida uzilmas bo
 
 - **Misol:** 1 256 700,00 soʻm.
 
-### Oʻlchov birliklari
-
-Oʻlchov birliklarining qisqartmalari oxiriga nuqta qoʻyilmaydi.
-
-- **Misol:** sm, kg.
 
 ### Telefon raqamlari
 
