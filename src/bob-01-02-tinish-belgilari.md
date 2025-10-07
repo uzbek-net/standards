@@ -4,7 +4,7 @@ Quyidagi qoidalar Unicode yordamida matn terishda tinish belgilaridan toʻgʻri 
 
 ## Qoʻshtirnoqlar
 
-Ingliz tilida raqamli muhitda standart klaviaturadagi " (qoʻsh) va ' (yakka) qoʻshtirnoqlardan foydalanish odatiy hol. Oʻzbek tilida esa, imlo qoidalari boshqacha boʻlib, matbuot va rasmiy hujjatlarda quyidagi qoʻshtirnoqlardan foydalaniladi.
+Ingliz tilida raqamli muhitda standart klaviaturadagi " (qoʻshtirnoq) va ' (yakka tirnoq) belgilaridan foydalanish odatiy hol. Oʻzbek tilida esa, imlo qoidalari boshqacha boʻlib, matbuot va rasmiy hujjatlarda quyidagi qoʻshtirnoqlardan foydalaniladi.
 
 **Lotin oʻzbek yozuvi:** Lotin alifbosidagi oʻzbek tilida “...” (inglizcha “dubl-sferik” qoʻshtirnoqlar) asosiy (tashqi) qoʻshtirnoqlar hisoblanadi. Matn ichida, yaʼni qoʻshtirnoqlar ichida boshqa bir soʻz yoki gap qoʻshtirnoqqa olinadigan boʻlsa, ‘...’ (yakka) qoʻshtirnoqlardan foydalaniladi.
 
@@ -53,7 +53,7 @@ Ichki: „...“
 **HTML kodi:** `&mdash;` \
 **Unicode kodi:** `&#8212;`
 
-## Koʻrinmas boʻshliq (Non-breaking space)
+## Uzilmas boʻshliq (Non-breaking space)
 
 Bu belgi satr uzilishining oldini olish uchun ishlatiladi. U, masalan, son bilan birlik ajralib qolmasligini taʼminlaydi.
 
