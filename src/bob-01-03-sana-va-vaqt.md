@@ -18,9 +18,9 @@ Oʻzbekistonda sana formatlari uchun quyidagi qoidalar amal qiladi:
 
     - **Misol:** 17.03.2011.
 
-- **Uzun sana formati:** yyyy yil d-MMMM.
+- **Uzun sana formati:** yyyy-yil d-MMMM.
 
-    - **Misol:** 2011 yil 3-mart.
+    - **Misol:** 2011-yil 3-mart.
 
 #### Format kodlaridagi belgilar
 
