@@ -14,10 +14,14 @@ Ingliz tilida raqamli muhitda standart klaviaturadagi " (qoʻshtirnoq) va ' (yak
 Tashqi: “...”
 - **HTML kodlari:** `&ldquo;` (ochish) va `&rdquo;` (yopish)
 - **Unicode kodlari:** `&#8220;` (ochish) va `&#8221;` (yopish)
+- **Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0147` (ochish) yoki `0148` (yopish) tering.
+- **macOS**ʼda kiritish uchun `Option + [` (ochish) yoki `Option + Shift + [` (yopish) tugmalarini bosing.
 
 Ichki: ‘...’
 - **HTML kodlari:** `&lsquo;` (ochish) va `&rsquo;` (yopish)
 - **Unicode kodlari:** `&#8216;` (ochish) va `&#8217;` (yopish)
+- **Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0145` (ochish) yoki `0146` (yopish) tering.
+- **macOS**ʼda kiritish uchun `Option + ]` (ochish) yoki `Option + Shift + ]` (yopish) tugmalarini bosing.
 
 ---
 
@@ -30,6 +34,7 @@ Ichki: ‘...’
 Tashqi: «...»
 - **HTML kodlari:** `&laquo;` (ochish) va `&raquo;` (yopish)
 - **Unicode kodlari:** `&#171;` (ochish) va `&#187;` (yopish)
+- **Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0171` (ochish) yoki `0187` (yopish) tering.
 
 Ichki: „...“
 - **HTML kodlari:** yoʻq
@@ -44,6 +49,8 @@ Ichki: „...“
 **HTML kodi:** `&ndash;` \
 **Unicode kodi:** `&#8211;`
 
+**Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0150` ni tering. **macOS**ʼda kiritish uchun `Option + - (defis)` tugmalarini bosing.
+
 ---
 
 **Uzun tire** (Em dash, —): Bu belgi fikrni, izohni yoki maʼnoni ajratib koʻrsatish uchun ishlatiladi. Gap ichida undan oldin va keyin boʻsh joy qoldirilmaydi.
@@ -52,6 +59,8 @@ Ichki: „...“
 
 **HTML kodi:** `&mdash;` \
 **Unicode kodi:** `&#8212;`
+
+**Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0151` ni tering. **macOS**ʼda kiritish uchun `Option + Option + - (defis)` tugmalarini bosing.
 
 ## Uzilmas boʻshliq (Non-breaking space)
 
@@ -67,4 +76,6 @@ Qoidalar:
 
 **HTML kodi:** `&nbsp;` \
 **Unicode kodi:** `&#160;`
+
+**Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0160` ni tering. **macOS**ʼda kiritish uchun `Option + Space` tugmalarini bosing.
 
