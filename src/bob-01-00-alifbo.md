@@ -91,7 +91,7 @@ Windows va macOS operatsion tizimlarida oʻzbek tili uchun standart klaviatura m
 
 - **Qoʻshtirnoqlar (“ ”):** `Alt + K` va `Alt + L` (Windows) yoki `Option + K` va `Option + L` (macOS) tugmalarini bosing.
 
-- **Birtirnoqlar (‘ ’):** `Alt + Shift + K` va `Alt + Shift + L` (Windows) yoki `Option + Shift + K` va `Optoin + Shift + L` tugmalarini bosing.
+- **Birtirnoqlar (‘ ’):** `Alt + Shift + K` va `Alt + Shift + L` (Windows) yoki `Option + Shift + K` va `Option + Shift + L` tugmalarini bosing.
 
 ##### Windows uchun oʻrnatish uchun:
 
