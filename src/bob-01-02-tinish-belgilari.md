@@ -60,7 +60,7 @@ Ichki: „...“
 **HTML kodi:** `&mdash;` \
 **Unicode kodi:** `&#8212;`
 
-**Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0151` ni tering. **macOS**ʼda kiritish uchun `Option + Option + - (defis)` tugmalarini bosing.
+**Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0151` ni tering. **macOS**ʼda kiritish uchun `Option + Shift + - (defis)` tugmalarini bosing.
 
 ## Uzilmas boʻshliq (Non-breaking space)
 
