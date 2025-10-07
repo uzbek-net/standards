@@ -6,3 +6,4 @@
 [Kirish]
 - [Alifbo](./bob-01-00-alifbo.md)
 - [Oʻzlashtirish](./bob-01-01-oʻzlashtirish.md)
+- [Tinish belgilari](./bob-01-02-tinish-belgilari.md)
