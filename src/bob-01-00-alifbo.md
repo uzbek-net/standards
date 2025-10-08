@@ -73,7 +73,7 @@ oʻrnatilgan boʻlib, unda oʻ va gʻ harflari toʻgʻri belgilangan.
 
 #### Windows va macOS
 
-Windows va macOS operatsion tizimlarida oʻzbek tili uchun standart klaviatura mavjud emas. Shu sababli, bu muammoni hal qilish uchun [Farhodjon Chinberdiev](https://github.com/far5n10v) tomonidan maxsus [dasturiy taʼminot](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/) yaratdi. Ushbu dasturni oʻrnatish orqali siz oʻzbek harflari (oʻ, gʻ), shuningdek, turk harflarini (Ö, Ğ, Ş, Ç, İ) terish imkoniyatiga ega boʻlasiz.
+Windows va macOS operatsion tizimlarida oʻzbek tili uchun standart klaviatura mavjud emas. Shu sababli, bu muammoni hal qilish uchun [Farhodjon Chinberdiev](https://github.com/far5n10v) tomonidan maxsus [dasturiy taʼminot](https://github.com/far5n10v/uzbek-typography-layouts) yaratdi. Ushbu dasturni oʻrnatish orqali siz oʻzbek harflari (oʻ, gʻ), shuningdek, turk harflarini (Ö, Ğ, Ş, Ç, İ) terish imkoniyatiga ega boʻlasiz.
 
 ![Lotin terilma](./assets/latin-layout.png)
 
@@ -95,7 +95,7 @@ Windows va macOS operatsion tizimlarida oʻzbek tili uchun standart klaviatura m
 
 ##### Windows uchun oʻrnatish uchun:
 
-1. Ushbu [veb-saytga](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/) oʻting va [Windows uchun](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/uzbek-typography-layouts.zip) tugmasini bosing.
+1. Ushbu [veb-saytga](https://github.com/far5n10v/uzbek-typography-layouts) oʻting va **Oʻrnatish** boʻlimida [uzbek-typography-layouts-windows.zip](https://github.com/farhodjon/uzbek-typography-layouts/releases/latest/download/uzbek-typography-layouts-windows.zip) faylini yuklab oling.
 
 2. Arxivni ochganingizdan soʻng ikkita papka paydo boʻladi: *uzbek-cyrillic-typography-layout-2.0* va *uzbek-latin-typography-layout-2.0*.
 
@@ -105,7 +105,7 @@ Windows va macOS operatsion tizimlarida oʻzbek tili uchun standart klaviatura m
 
 ##### macOS uchun oʻrnatish uchun:
 
-1. Ushbu [veb-saytga](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/) oʻting va [macOS uchun](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/uzbek-typography-layouts.zip) tugmasini bosing.
+1. Ushbu [veb-saytga](https://github.com/far5n10v/uzbek-typography-layouts) oʻting va **Oʻrnatish** boʻlimida [uzbek-typography-layouts-macOS.dmg](https://github.com/farhodjon/uzbek-typography-layouts/releases/latest/download/uzbek-typography-layouts-macOS.dmg) faylini yuklab oling.
 
 2. Yuklab olingan *Uzbek Keyboard Layouts.dmg* faylini oching.
 
@@ -137,4 +137,4 @@ integratsiya boʻlgan yechim hisoblanadi.
 - [https://lex.uz/docs/-112286](https://lex.uz/docs/-112286)
 - [https://uz.wikipedia.org/wiki/%CA%BB_(belgi)](https://uz.wikipedia.org/wiki/%CA%BB_(belgi))
 - [https://uz.wikipedia.org/wiki/%CA%BB_(belgi)](https://uz.wikipedia.org/wiki/%CA%BC_(belgi))
-- [Oʻzbekcha tipografik klaviatura terilmalari](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/)
+- [Oʻzbekcha tipografik klaviatura terilmasi](https://github.com/far5n10v/uzbek-typography-layouts)
