@@ -4,7 +4,7 @@ Bu boʻlim mahalliylashtirilgan kontentda izchil va mos uslub va ohang boʻyicha
 
 ### Auditoriya
 
-Ohang va uslubni auditoriyaga moslashtirish kerak. Masalan, yangi foydalanuvchilar uchun ohang toʻgʻridan-toʻgʻri va doʻstona boʻlishi kerak, IT mutaxassislari uchun esa rasmiyroq ohang qoʻllanilishi lozim.
+Ohang va uslubni auditoriyaga moslashtirish kerak. Masalan, yangi foydalanuvchilar uchun ohang toʻgʻridan-toʻgʻri va doʻstona boʻlishi kerak, AT mutaxassislari uchun esa rasmiyroq ohang qoʻllanilishi lozim.
 
 ### Ohang
 
@@ -29,7 +29,7 @@ Baʼzi holatlarda passiv ovozdan foydalanish yoki jumlani kontekstga mos ravishd
 
 ### Feʼllar va Harakat shakli
 
-Oʻzbek tilini mahalliylashtirishda ingliz tilidagi buyruq feʼllari (imperative) koʻpincha feʼlning harakat shakliga tarjima qilinadi. Bu shuni anglatadiki, "Open a file" kabi buyruq Oʻzbek tilida "Fayl ochish"ga aylanadi. Bu uslub odatda dastur interfeysi elementlarida, masalan, menyu va tugma nomlarida qoʻllaniladi.
+Oʻzbek tilini mahalliylashtirishda ingliz tilidagi buyruq feʼllari (imperative) koʻpincha feʼlning harakat shakliga tarjima qilinadi. Bu shuni anglatadiki, "Open a file" kabi buyruq Oʻzbek tilida "Faylni ochish"ga aylanadi. Bu uslub odatda dastur interfeysi elementlarida, masalan, menyu va tugma nomlarida qoʻllaniladi.
 
 **Misollar:**
 
