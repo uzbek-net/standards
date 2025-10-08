@@ -33,14 +33,8 @@ Oʻzbek tilini mahalliylashtirishda ingliz tilidagi buyruq feʼllari (imperative
 
 **Misollar:**
 
-- **Inglizcha:** Save changes
-    
-    **Oʻzbekcha:** Oʻzgartirishlarni saqlash
-
-- **Inglizcha:** Print document
-
-    **Oʻzbekcha:** Hujjatni chop etish
-
-- **Inglizcha:** Connect to the network
-
-    **Oʻzbekcha:** Tarmoqqa ulanish
+| Inglizcha | Oʻzbekcha |
+| --- | --- |
+| Save changes | Oʻzgartirishlarni saqlash |
+| Print document | Hujjatni chop etish |
+| Connect to the network | Tarmoqqa ulanish |
