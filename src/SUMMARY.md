@@ -9,3 +9,4 @@
 - [Tinish belgilari](./bob-01-02-tinish-belgilari.md)
 - [Sana va vaqt](./bob-01-03-sana-va-vaqt.md)
 - [Raqamlar](./bob-01-04-raqamlar.md)
+- [Uslub va ohang](./bob-01-05-uslub-va-ohang.md)
