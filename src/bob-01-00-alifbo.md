@@ -69,7 +69,7 @@ oʻrnatilgan boʻlib, unda oʻ va gʻ harflari toʻgʻri belgilangan.
 
 - Til sozlamalari orqali "Oʻzbekcha (Lotin)" klaviaturasini faollashtiring.
 
-<!-- TODO: Include screenshots of GBoard -->
+![GBoard klaviaturasi skrinshoti](./assets/gboard-screenshot.png)
 
 #### Windows va macOS
 
