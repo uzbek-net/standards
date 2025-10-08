@@ -24,7 +24,7 @@ Baʼzi holatlarda passiv ovozdan foydalanish yoki jumlani kontekstga mos ravishd
 
 - **Inglizcha:** You are now connected to the Internet.
 
-- **Oʻzbekcha:** Siz hozir Internet tarmogʻiga ulangansiz. 
+- **Oʻzbekcha:** Siz hozir Internet tarmogʻiga ulangansiz.
 
 
 ### Feʼllar va Harakat shakli
@@ -35,7 +35,7 @@ Oʻzbek tilini mahalliylashtirishda ingliz tilidagi buyruq feʼllari (imperative
 
 - **Inglizcha:** Save changes
     
-    **Oʻzbekcha:** O'zgartirishlarni saqlash
+    **Oʻzbekcha:** Oʻzgartirishlarni saqlash
 
 - **Inglizcha:** Print document
 
