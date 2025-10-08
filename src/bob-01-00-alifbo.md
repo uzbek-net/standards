@@ -73,7 +73,7 @@ oʻrnatilgan boʻlib, unda oʻ va gʻ harflari toʻgʻri belgilangan.
 
 #### Windows va macOS
 
-Windows va macOS operatsion tizimlarida oʻzbek tili uchun standart klaviatura mavjud emas. Shu sababli, oʻzbek hamjamiyati bu muammoni hal qilish uchun maxsus [dasturiy taʼminot](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/) yaratdi. Ushbu dasturni oʻrnatish orqali siz oʻzbek harflari (oʻ, gʻ), shuningdek, turk harflarini (Ö, Ğ, Ş, Ç, İ) terish imkoniyatiga ega boʻlasiz.
+Windows va macOS operatsion tizimlarida oʻzbek tili uchun standart klaviatura mavjud emas. Shu sababli, bu muammoni hal qilish uchun [Farhodjon Chinberdiev](https://github.com/far5n10v) tomonidan maxsus [dasturiy taʼminot](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/) yaratdi. Ushbu dasturni oʻrnatish orqali siz oʻzbek harflari (oʻ, gʻ), shuningdek, turk harflarini (Ö, Ğ, Ş, Ç, İ) terish imkoniyatiga ega boʻlasiz.
 
 ![Lotin terilma](./assets/latin-layout.png)
 
