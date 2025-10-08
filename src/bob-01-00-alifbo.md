@@ -71,7 +71,52 @@ oʻrnatilgan boʻlib, unda oʻ va gʻ harflari toʻgʻri belgilangan.
 
 <!-- TODO: Include screenshots of GBoard -->
 
-#### Kompyuter (Linux)
+#### Windows va macOS
+
+Windows va macOS operatsion tizimlarida oʻzbek tili uchun standart klaviatura mavjud emas. Shu sababli, oʻzbek hamjamiyati bu muammoni hal qilish uchun maxsus [dasturiy taʼminot](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/) yaratdi. Ushbu dasturni oʻrnatish orqali siz oʻzbek harflari (oʻ, gʻ), shuningdek, turk harflarini (Ö, Ğ, Ş, Ç, İ) terish imkoniyatiga ega boʻlasiz.
+
+![Lotin terilma](./assets/latin-layout.png)
+
+- **Tutuq belgisi:** ` (gravis) tugmasini bosing.
+
+- **Oʻ va Gʻ harflari:** `'` (apostrof) tugmasini bosing.
+
+- **Turk harflari (Ö, Ğ, Ş, Ç, İ):** `Alt` (Windows) yoki `Option` (macOS) tugmasini bosib turgan holda tegishli harflarni (`o`, `g`, `s`, `c`, `i`) bosing.
+
+- **Em dash (—):** `Alt + -` (Windows) yoki `Option + -` (macOS) tugmalarini bosing.
+
+- **En dash (–):** `Alt + Shift + -` (Windows) yoki `Option + Shift + -` (macOS) tugmalarini bosing.
+
+- **Uzilmas boʻshliq (non-breaking space):** `Alt + Space` (Windows) yoki `Option + Space` (macOS) tugmalarini bosing.
+
+- **Qoʻshtirnoqlar (“ ”):** `Alt + K` va `Alt + L` (Windows) yoki `Option + K` va `Option + L` (macOS) tugmalarini bosing.
+
+- **Birtirnoqlar (‘ ’):** `Alt + Shift + K` va `Alt + Shift + L` (Windows) yoki `Option + Shift + K` va `Option + Shift + L` tugmalarini bosing.
+
+##### Windows uchun oʻrnatish uchun:
+
+1. Ushbu [veb-saytga](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/) oʻting va [Windows uchun](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/uzbek-typography-layouts.zip) tugmasini bosing.
+
+2. Arxivni ochganingizdan soʻng ikkita papka paydo boʻladi: *uzbek-cyrillic-typography-layout-2.0* va *uzbek-latin-typography-layout-2.0*.
+
+3. Mos papkaga kirib `setup.exe` faylini ishga tushiring.
+
+4. Kompyuterni oʻchirib yoqish talab qilishi mumkin.
+
+##### macOS uchun oʻrnatish uchun:
+
+1. Ushbu [veb-saytga](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/) oʻting va [macOS uchun](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/uzbek-typography-layouts.zip) tugmasini bosing.
+
+2. Yuklab olingan *Uzbek Keyboard Layouts.dmg* faylini oching.
+
+3. *Uzbek Keyboard Layouts.bundle* faylini *Drag here to install* nomli yorliqqa yuboring (faylni sudrab yorliq ustiga tashlang).
+
+4. *System Preferences* ichidan *Keyboard → Input Sources* ekraniga oʻting.
+
+5. \+ tugmasini bosib roʻyxatdan yangi terilmalarni qoʻshing (xuddi boshqa terilmalarni qoʻshgandek). Ushbu terilmalar roʻyxatda oʻzbek tili sifatida chiqadi.
+
+
+#### Linux
 
 Linux operatsion tizimlarida oʻzbek lotin klaviaturasi standart 
 oʻrnatilmagan boʻlishi mumkin. Vaqtinchalik yechim sifatida mavjud 
@@ -85,10 +130,11 @@ integratsiya boʻlgan yechim hisoblanadi.
 
 <!-- TODO: Explore other popular options: Samsung keyboard, SwiftKey, etc. -->
 
-<!-- TODO: Input options for iOS, MacOS, Windows -->
+<!-- TODO: Input options for iOS -->
 
 ### Havolalar
 
 - [https://lex.uz/docs/-112286](https://lex.uz/docs/-112286)
 - [https://uz.wikipedia.org/wiki/%CA%BB_(belgi)](https://uz.wikipedia.org/wiki/%CA%BB_(belgi))
 - [https://uz.wikipedia.org/wiki/%CA%BB_(belgi)](https://uz.wikipedia.org/wiki/%CA%BC_(belgi))
+- [Oʻzbekcha tipografik klaviatura terilmalari](https://farhodjon.netlify.app/projects/uzbek-typography-keyboard-layouts/)
