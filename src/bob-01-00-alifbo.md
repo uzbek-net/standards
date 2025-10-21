@@ -53,13 +53,13 @@ Bu belgilar:
 
 - ʼ (U+02BC) — tutuq belgisi uchun.
 
-### Kiritish usullari
+## Kiritish usullari
 
 Afsuski, hozirda oʻzbek lotin alifbosi uchun standart klaviatura 
 tuzilmasi mavjud emas. Shunga qaramay, yuqorida keltirilgan 
 standart belgilarni bir qancha usullar orqali kiritish mumkin.
 
-#### Mobil qurilmalar (Android)
+### Mobil qurilmalar (Android)
 
 **GBoard klaviaturasi** ushbu muammoni eng oson hal qiluvchi 
 yechimlardan biridir. GBoard ichida oʻzbek lotin klaviaturasi 
@@ -71,7 +71,7 @@ oʻrnatilgan boʻlib, unda oʻ va gʻ harflari toʻgʻri belgilangan.
 
 ![GBoard klaviaturasi skrinshoti](./assets/gboard-screenshot.png)
 
-#### Windows va macOS
+### Windows va macOS
 
 Windows va macOS operatsion tizimlarida oʻzbek tili uchun standart klaviatura mavjud emas. Shu sababli, bu muammoni hal qilish uchun [Farhodjon Chinberdiev](https://github.com/far5n10v) tomonidan maxsus [dasturiy taʼminot](https://github.com/far5n10v/uzbek-typography-layouts) yaratdi. Ushbu dasturni oʻrnatish orqali siz oʻzbek harflari (oʻ, gʻ), shuningdek, turk harflarini (Ö, Ğ, Ş, Ç, İ) terish imkoniyatiga ega boʻlasiz.
 
@@ -93,7 +93,7 @@ Windows va macOS operatsion tizimlarida oʻzbek tili uchun standart klaviatura m
 
 - **Birtirnoqlar (‘ ’):** `Alt + Shift + K` va `Alt + Shift + L` (Windows) yoki `Option + Shift + K` va `Option + Shift + L` tugmalarini bosing.
 
-##### Windows uchun oʻrnatish uchun:
+#### Windows uchun oʻrnatish uchun:
 
 1. Ushbu [veb-saytga](https://github.com/far5n10v/uzbek-typography-layouts) oʻting va **Oʻrnatish** boʻlimida [uzbek-typography-layouts-windows.zip](https://github.com/farhodjon/uzbek-typography-layouts/releases/latest/download/uzbek-typography-layouts-windows.zip) faylini yuklab oling.
 
@@ -103,7 +103,7 @@ Windows va macOS operatsion tizimlarida oʻzbek tili uchun standart klaviatura m
 
 4. Kompyuterni oʻchirib yoqish talab qilishi mumkin.
 
-##### macOS uchun oʻrnatish uchun:
+#### macOS uchun oʻrnatish uchun:
 
 1. Ushbu [veb-saytga](https://github.com/far5n10v/uzbek-typography-layouts) oʻting va **Oʻrnatish** boʻlimida [uzbek-typography-layouts-macOS.dmg](https://github.com/farhodjon/uzbek-typography-layouts/releases/latest/download/uzbek-typography-layouts-macOS.dmg) faylini yuklab oling.
 
@@ -116,14 +116,32 @@ Windows va macOS operatsion tizimlarida oʻzbek tili uchun standart klaviatura m
 5. \+ tugmasini bosib roʻyxatdan yangi terilmalarni qoʻshing (xuddi boshqa terilmalarni qoʻshgandek). Ushbu terilmalar roʻyxatda oʻzbek tili sifatida chiqadi.
 
 
-#### Linux
+### Linux
 
-Linux operatsion tizimlarida oʻzbek lotin klaviaturasi standart 
-oʻrnatilmagan boʻlishi mumkin. Vaqtinchalik yechim sifatida mavjud 
-klaviatura tuzilmasini moslashtirish mumkin. Masalan, oddiy US QWERTY 
-klaviaturasini oʻzgartirish orqali ʻ va ʼ belgilarini kiritish imkoniyati 
-yaratiladi. Bu usul texnik bilimni talab etadi, lekin tizimga toʻliq 
-integratsiya boʻlgan yechim hisoblanadi.
+Linux operatsion tizimlarida oʻzbek lotin klaviaturasi standart oʻrnatilmagan boʻlishi mumkin. Eng toʻgʻri va tizimga toʻliq 
+integratsiya qilingan yechim bu—oʻzbek tili uchun maxsus ishlab chiqilgan, ʻOkina va Tutuq Belgisi kabi barcha zaruriy tipografik 
+belgilarni qoʻllab-quvvatlaydigan terilmani oʻrnatishdir.
+
+Linux uchun klaviatura terilmasini ushbu GitHub repozitoriyasida topishingiz mumkin:
+- [github.com/itsbilolbek/uzbek-linux-keyboard](https://github.com/itsbilolbek/uzbek-linux-keyboard)
+
+#### Oʻrnatish usuli
+
+1. Repozitoriyani klonlang:
+
+```bash
+git clone https://github.com/itsbilolbek/uzbek-linux-keyboard.git
+cd uzbek-linux-keyboard
+```
+
+2. Oʻrnatish skriptini ishga tushiring:
+
+```bash
+chmod +x install.sh
+sudo ./install.sh
+```
+
+3. **Terilmani faollashtirish:** oʻrnatishdan soʻng tizimdan chiqib, qayta kiring (yoki kompyuterni qayta ishga tushiring). Tizim sozlamalari (Masalan, GNOME, KDE) orqali kiritish usullariga (input source) "Oʻzbekcha (Lotin)" terilmasini qoʻshing.
 
 <!-- TODO: Include screenshot of modified keyboard layout on Linux -->
 <!-- TODO: Include skript for uzbek keyboard layout on Linux -->
