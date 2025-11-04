@@ -12,6 +12,6 @@ mdbook serve # kitobni localda ishga tushirish
 Agar nix ishlatsangiz dev shellʼga kirib oling.
 ```bash
 direnv allow
-
+# yoki
 nix develop -c $SHELL
 ```
