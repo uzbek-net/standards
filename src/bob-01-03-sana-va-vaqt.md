@@ -1,6 +1,7 @@
 # Sana va vaqt formatlari
 
-Ushbu boʻlimda Oʻzbekistonda sana va vaqtni formatlash boʻyicha standartlar haqida maʼlumotlar berilgan.
+Ushbu boʻlimda Oʻzbekistonda sana va vaqtni formatlash boʻyicha standartlar
+haqida maʼlumotlar berilgan.
 
 ## Sana
 
@@ -10,7 +11,8 @@ Oʻzbekistonda sana formatlari uchun quyidagi qoidalar amal qiladi:
 
 - **Haftaning birinchi kuni:** Dushanba hisoblanadi.
 
-- **Yilning birinchi haftasi:** Yanvar oyining birinchi kunini oʻz ichiga olgan hafta yilning birinchi haftasi deb belgilanadi.
+- **Yilning birinchi haftasi:** Yanvar oyining birinchi kunini oʻz ichiga
+olgan hafta yilning birinchi haftasi deb belgilanadi.
 
 ### Standart sana formatlari
 
@@ -24,11 +26,14 @@ Oʻzbekistonda sana formatlari uchun quyidagi qoidalar amal qiladi:
 
 #### Format kodlaridagi belgilar
 
-- `d` — kunni ifodalaydi: `d` (bosh nolsiz raqam), `dd` (bosh nol bilan raqam), `ddd` (qisqa kun nomi), `dddd` (toʻliq kun nomi).
+- `d` — kunni ifodalaydi: `d` (bosh nolsiz raqam), `dd` (bosh nol bilan
+raqam), `ddd` (qisqa kun nomi), `dddd` (toʻliq kun nomi).
 
-- `M` — oyni ifodalaydi: `M` (bosh nolsiz raqam), `MM` (bosh nol bilan raqam), `MMM` (qisqa oy nomi), `MMMM` (toʻliq oy nomi).
+- `M` — oyni ifodalaydi: `M` (bosh nolsiz raqam), `MM` (bosh nol bilan
+raqam), `MMM` (qisqa oy nomi), `MMMM` (toʻliq oy nomi).
 
-- `y` — yilni ifodalaydi: `yy` (ikki xonali raqam) va `yyyy` (toʻrt xonali raqam).
+- `y` — yilni ifodalaydi: `yy` (ikki xonali raqam) va `yyyy` (toʻrt
+xonali raqam).
 
 
 ### Hafta kunlari
@@ -62,9 +67,11 @@ Oʻzbekistonda sana formatlari uchun quyidagi qoidalar amal qiladi:
 
 ### Hafta kuni va oy nomlari
 
-- Hafta kun nomlari kalendarda va alohida ishlatilganda bosh harf bilan yoziladi. Agar ular gapning oʻrtasida kelsa, ular bosh harf bilan yozilmaydi.
+- Hafta kun nomlari kalendarda va alohida ishlatilganda bosh harf bilan
+yoziladi. Agar ular gapning oʻrtasida kelsa, ular bosh harf bilan yozilmaydi.
 
-- Oy nomlari ham kalendarda va alohida ishlatilganda bosh harf bilan yoziladi. Agar ular gapning oʻrtasida kelsa, ular bosh harf bilan yozilmaydi.
+- Oy nomlari ham kalendarda va alohida ishlatilganda bosh harf bilan
+yoziladi. Agar ular gapning oʻrtasida kelsa, ular bosh harf bilan yozilmaydi.
 
 ### Qoʻshimcha qoidalar
 
@@ -102,22 +109,34 @@ Oʻzbekistonda sana formatlari uchun quyidagi qoidalar amal qiladi:
 
 ## ISO 8601 standarti
 
-ISO 8601 — xalqaro standart boʻlib, sana va vaqt maʼlumotlarini yozishning universal usulini belgilaydi. Ushbu standartdan foydalanish maʼlumotlarni almashishda va tizimlararo aloqada (masalan, API, veb-serverlar va maʼlumotlar bazalari) chalkashliklarning oldini oladi.
+ISO 8601 — xalqaro standart boʻlib, sana va vaqt maʼlumotlarini yozishning
+universal usulini belgilaydi. Ushbu standartdan foydalanish maʼlumotlarni
+almashishda va tizimlararo aloqada (masalan, API, veb-serverlar va maʼlumotlar
+bazalari) chalkashliklarning oldini oladi.
 
 Uning asosiy formati  `YYYY-MM-DD` dir.
 
 ### Nima uchun foydalanish kerak?
 
-**Aniq va tushunarli:** Baʼzi mamlakatlarda sana `MM/DD/YYYY` (oy/kun/yil) formatida, baʼzilarida esa `DD/MM/YYYY` (kun/oy/yil) formatida yoziladi. Bu holat tushunmovchiliklarga sabab boʻlishi mumkin. `ISO 8601` esa har doim yil-oy-kun tartibida boʻlgani uchun global miqyosda bir xil tushuniladi.
+**Aniq va tushunarli:** Baʼzi mamlakatlarda sana `MM/DD/YYYY` (oy/kun/yil)
+formatida, baʼzilarida esa `DD/MM/YYYY` (kun/oy/yil) formatida yoziladi. Bu
+holat tushunmovchiliklarga sabab boʻlishi mumkin. `ISO 8601` esa har doim
+yil-oy-kun tartibida boʻlgani uchun global miqyosda bir xil tushuniladi.
 
-**Saralash oson:** Maʼlumotlar bazalarida sanalarni alifbo tartibida saralash (alphabetical sorting) orqali toʻgʻri xronologik tartibga keltirish imkonini beradi. Boshqa formatlarda bu ish bermaydi.
+**Saralash oson:** Maʼlumotlar bazalarida sanalarni alifbo tartibida saralash
+(alphabetical sorting) orqali toʻgʻri xronologik tartibga keltirish imkonini
+beradi. Boshqa formatlarda bu ish bermaydi.
 
 #### Misol:
 
 - **Standard format:** `2025-10-07`
 
-- **Vaqt bilan birga:** `2025-10-07T14:55:17` (Bu yerda `T` belgisi vaqtni sanadan ajratadi)
+- **Vaqt bilan birga:** `2025-10-07T14:55:17` (Bu yerda `T` belgisi vaqtni
+sanadan ajratadi)
 
 ### Qachon foydalanish kerak?
 
-Foydalanuvchi interfeysida asosan mahalliy format (`dd.MM.yyyy`) ishlatilishi kerak boʻlsa-da, tizimlararo maʼlumotlar almashinuvi, log fayllari, API chaqiriqlari va konfiguratsiya fayllarida doimo `ISO 8601` formatidan foydalanish tavsiya etiladi.
+Foydalanuvchi interfeysida asosan mahalliy format (`dd.MM.yyyy`) ishlatilishi
+kerak boʻlsa-da, tizimlararo maʼlumotlar almashinuvi, log fayllari,
+API chaqiriqlari va konfiguratsiya fayllarida doimo `ISO 8601` formatidan
+foydalanish tavsiya etiladi.

@@ -1,24 +1,37 @@
 # Uslub va ohang
 
-Bu boʻlim mahalliylashtirilgan kontentda izchil va mos uslub va ohang boʻyicha tavsiyalar beradi. Maqsad, yakuniy mahsulotning oʻzbekcha foydalanuvchiga tabiiy eshitilishini taʼminlash, shu bilan birga asl xabar mazmunini yetkazishdir.
+Bu boʻlim mahalliylashtirilgan kontentda izchil va mos uslub va ohang
+boʻyicha tavsiyalar beradi. Maqsad, yakuniy mahsulotning oʻzbekcha
+foydalanuvchiga tabiiy eshitilishini taʼminlash, shu bilan birga asl xabar
+mazmunini yetkazishdir.
 
 ### Auditoriya
 
-Ohang va uslubni auditoriyaga moslashtirish kerak. Masalan, yangi foydalanuvchilar uchun ohang toʻgʻridan-toʻgʻri va doʻstona boʻlishi kerak, AT mutaxassislari uchun esa rasmiyroq ohang qoʻllanilishi lozim.
+Ohang va uslubni auditoriyaga moslashtirish kerak. Masalan, yangi
+foydalanuvchilar uchun ohang toʻgʻridan-toʻgʻri va doʻstona boʻlishi
+kerak, AT mutaxassislari uchun esa rasmiyroq ohang qoʻllanilishi lozim.
 
 ### Ohang
 
-Oʻzbekcha tarjimaning ohangi asl mahsulotning ohangiga oʻxshashi, shu bilan birga hurmatli boʻlishi kerak. Muayyan dialektga xos boʻlgan soʻzlarni ishlatishdan cheklanish kerak. Umuman olganda, mahalliylashtirilgan matn oʻzbek tilida dastlab yozilgandek tuyulishi kerak. Soʻzma-soʻz tarjima qilishdan qoching. Lokalizatsiya ohangi aniq, tushunarli, xolis va foydalanuvchiga yoʻnaltirilgan boʻlishi kerak.
+Oʻzbekcha tarjimaning ohangi asl mahsulotning ohangiga oʻxshashi, shu bilan
+birga hurmatli boʻlishi kerak. Muayyan dialektga xos boʻlgan soʻzlarni
+ishlatishdan cheklanish kerak. Umuman olganda, mahalliylashtirilgan
+matn oʻzbek tilida dastlab yozilgandek tuyulishi kerak. Soʻzma-soʻz
+tarjima qilishdan qoching. Lokalizatsiya ohangi aniq, tushunarli, xolis va
+foydalanuvchiga yoʻnaltirilgan boʻlishi kerak.
 
 ### Murojaat uslubi
 
-Foydalanuvchiga murojaat qilishda "Siz" olmoshidan foydalaning. Agar "Siz" olmoshi feʼlning shaxsiy qoʻshimchalari bilan ifodalangan boʻlsa, uni yozmaslik kerak.
+Foydalanuvchiga murojaat qilishda "Siz" olmoshidan foydalaning. Agar "Siz"
+olmoshi feʼlning shaxsiy qoʻshimchalari bilan ifodalangan boʻlsa, uni
+yozmaslik kerak.
 
-- **Notoʻgʻri:** Siz tugmachani bosing 
+- **Notoʻgʻri:** Siz tugmachani bosing
 
-- **Toʻgʻri:** Tugmachani bosing 
+- **Toʻgʻri:** Tugmachani bosing
 
-Baʼzi holatlarda passiv ovozdan foydalanish yoki jumlani kontekstga mos ravishda qayta ifodalash yaxshiroq boʻlishi mumkin.
+Baʼzi holatlarda passiv ovozdan foydalanish yoki jumlani kontekstga mos
+ravishda qayta ifodalash yaxshiroq boʻlishi mumkin.
 
 **Misol:**
 
@@ -29,7 +42,11 @@ Baʼzi holatlarda passiv ovozdan foydalanish yoki jumlani kontekstga mos ravishd
 
 ### Feʼllar va Harakat shakli
 
-Oʻzbek tilini mahalliylashtirishda ingliz tilidagi buyruq feʼllari (imperative) koʻpincha feʼlning harakat shakliga tarjima qilinadi. Bu shuni anglatadiki, "Open a file" kabi buyruq Oʻzbek tilida "Faylni ochish"ga aylanadi. Bu uslub odatda dastur interfeysi elementlarida, masalan, menyu va tugma nomlarida qoʻllaniladi.
+Oʻzbek tilini mahalliylashtirishda ingliz tilidagi buyruq feʼllari
+(imperative) koʻpincha feʼlning harakat shakliga tarjima qilinadi. Bu shuni
+anglatadiki, "Open a file" kabi buyruq Oʻzbek tilida "Faylni ochish"ga
+aylanadi. Bu uslub odatda dastur interfeysi elementlarida, masalan, menyu
+va tugma nomlarida qoʻllaniladi.
 
 **Misollar:**
 
