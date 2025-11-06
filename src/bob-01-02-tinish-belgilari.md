@@ -2,6 +2,45 @@
 
 Quyidagi qoidalar Unicode yordamida matn terishda tinish belgilaridan toʻgʻri foydalanishga qaratilgan.
 
+## Brend nomlari va oʻzlashgan atamalar
+
+Bu qoida xalqaro tashkilotlar, savdo belgilari (brendlar) nomlari hamda oʻzbek tiliga oʻzlashtirilgan, ammo transliteratsiya qilinmagan barcha chet tili atamalari uchun amal qiladi.
+
+### 1. Asl yozuvni saqlash qoidasi
+
+Global kontekstda tanish boʻlgan yoki maxsus maʼnoni anglatuvchi xalqaro nomlar va ayrim oʻzlashgan atamalar original (ingliz, ispan, fransuz va h.k.) yozilishi boʻyicha qabul qilinadi.
+
+- **Brendlar va Atoqli nomlar:** Windows, Xerox, SpaceX, Canon.
+
+- **Oʻzlashgan Atamalar (Transliteratsiya qilinmagan):** Wi-Fi, HTTP, GitHub.
+
+### 2. Qoʻshimchalar qoʻshish (tutuq belgisi orqali)
+
+Agar asl lotin yozuvida saqlab qolingan bunday xorijiy nomlar yoki atamalarga oʻzbek tilidagi qoʻshimchalar (masalan, -dan, -ga, -ning, -ni, -da) qoʻshiladigan boʻlsa, qoʻshimchadan oldin tutuq belgisi (ʼ, `U02BC`) qoʻyilishi shart.
+
+**Tutuq belgisi xizmati:** Bu belgi xorijiy oʻzakni oʻzbekcha qoʻshimchadan vizual ravishda ajratish va maʼnoni farqlash uchun xizmat qiladi.
+
+| Asl soʻz | Qoʻshimcha bilan yozilishi |
+| --- | --- |
+| Windows | Windowsʼdan |
+| Xerox | Xeroxʼga |
+| Canon | Canonʼning |
+| Wi-Fi | Wi-Fiʼda |
+| GitHub | GitHubʼga |
+
+### 3. Talaffuz shaklidan foydalanish (Ixtiyoriy)
+
+Agar xalqaro nomning oʻzbek tilida anʼanaviy talaffuz shakli yoki muqobil (transliteratsiya qilingan) nomi keng qoʻllanilsa, bu nomlarga nisbatan ikki xil yozuvga ruxsat beriladi:
+
+- **Asl shakli:** Qoʻshimchalar tutuq belgisi orqali qoʻshiladi.
+
+- **Talaffuz (Transliteratsiya) shakli:** Qoʻshimchalar tutuq belgisidan foydalanmasdan, odatdagi oʻzbek imlo qoidalariga koʻra qoʻshiladi.
+
+| Xalqaro Nom | Asl yozuvi | Talaffuz (Transliteratsiya) yozuvi |
+| --- | --- | --- |
+| UNICEF | UNICEFʼning | YUNISEFning |
+| UNESCO | UNESCOʼga | YUNESKOga |
+
 ## Qoʻshtirnoqlar
 
 Ingliz tilida raqamli muhitda standart klaviaturadagi " (qoʻshtirnoq) va ' (yakka tirnoq) belgilaridan foydalanish odatiy hol. Oʻzbek tilida esa, imlo qoidalari boshqacha boʻlib, matbuot va rasmiy hujjatlarda quyidagi qoʻshtirnoqlardan foydalaniladi.

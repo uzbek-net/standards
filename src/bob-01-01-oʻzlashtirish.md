@@ -30,45 +30,6 @@ Tarjima qilishda soʻzning maʼnosi bilan birga uning qoʻllanish konteksti ham 
 
 Bizning mahalliylashtirish guruhimiz, eng koʻp qoʻllaniladigan soʻzlar va ularning oʻzbekcha tarjimalaridan iborat maxsus [lugʻatni](https://github.com/uzbek-net/dictionary) yuritib boradi. Bu lugʻat doimiy ravishda yangilanadi. Agar sizda lugʻatga kiritish uchun yangi soʻzlar yoki mavjud tarjimalarni yaxshilash boʻyicha takliflar boʻlsa, marhamat, bemalol xabar bering.
 
-## Brend nomlari va oʻzlashgan atamalar
-
-Bu qoida xalqaro tashkilotlar, savdo belgilari (brendlar) nomlari hamda oʻzbek tiliga oʻzlashtirilgan, ammo transliteratsiya qilinmagan barcha chet tili atamalari uchun amal qiladi.
-
-### 1. Asl yozuvni saqlash qoidasi
-
-Global kontekstda tanish boʻlgan yoki maxsus maʼnoni anglatuvchi xalqaro nomlar va ayrim oʻzlashgan atamalar original (ingliz, ispan, fransuz va h.k.) yozilishi boʻyicha qabul qilinadi.
-
-- **Brendlar va Atoqli nomlar:** Windows, Xerox, SpaceX, Canon.
-
-- **Oʻzlashgan Atamalar (Transliteratsiya qilinmagan):** Wi-Fi, HTTP, GitHub.
-
-### 2. Qoʻshimchalar qoʻshish (tutuq belgisi orqali)
-
-Agar asl lotin yozuvida saqlab qolingan bunday xorijiy nomlar yoki atamalarga oʻzbek tilidagi qoʻshimchalar (masalan, -dan, -ga, -ning, -ni, -da) qoʻshiladigan boʻlsa, qoʻshimchadan oldin tutuq belgisi (ʼ, `U02BC`) qoʻyilishi shart.
-
-**Tutuq belgisi xizmati:** Bu belgi xorijiy oʻzakni oʻzbekcha qoʻshimchadan vizual ravishda ajratish va maʼnoni farqlash uchun xizmat qiladi.
-
-| Asl soʻz | Qoʻshimcha bilan yozilishi |
-| --- | --- |
-| Windows | Windowsʼdan |
-| Xerox | Xeroxʼga |
-| Canon | Canonʼning |
-| Wi-Fi | Wi-Fiʼda |
-| GitHub | GitHubʼga |
-
-### 3. Talaffuz shaklidan foydalanish (Ixtiyoriy)
-
-Agar xalqaro nomning oʻzbek tilida anʼanaviy talaffuz shakli yoki muqobil (transliteratsiya qilingan) nomi keng qoʻllanilsa, bu nomlarga nisbatan ikki xil yozuvga ruxsat beriladi:
-
-- **Asl shakli:** Qoʻshimchalar tutuq belgisi orqali qoʻshiladi.
-
-- **Talaffuz (Transliteratsiya) shakli:** Qoʻshimchalar tutuq belgisidan foydalanmasdan, odatdagi oʻzbek imlo qoidalariga koʻra qoʻshiladi.
-
-| Xalqaro Nom | Asl yozuvi | Talaffuz (Transliteratsiya) yozuvi |
-| --- | --- | --- |
-| UNICEF | UNICEFʼning | YUNISEFning |
-| UNESCO | UNESCOʼga | YUNESKOga |
-
 ## Tavsiyalar
 - **Qiyinchilikda yechim:** Tarjima qilish qiyin boʻlsa, gap tuzilishini oʻzgartirish, gapni bir nechta qismga boʻlish yoki qoʻshimcha tushuntirishlar berish yaxshi samara beradi. Maqsad – matnning oʻquvchi uchun tushunarli boʻlishi.
 - **Izchillik:** Bir loyiha ichida bir xil soʻz uchun faqat bitta usul (tarjima yoki transliteratsiya) qoʻllanilishi kerak. Masalan, "cloud" soʻzi uchun "bulut" tarjimasi tanlansa, loyiha davomida faqat shu atamadan foydalanish lozim.
