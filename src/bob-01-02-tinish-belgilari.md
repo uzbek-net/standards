@@ -49,35 +49,11 @@ Ingliz tilida raqamli muhitda standart klaviaturadagi " (qoʻshtirnoq) va ' (yak
 
 - **Misol:** U shunday dedi: “Unga ‘salom’ deganimni ayting”.
 
-#### Kiritish usullari
-Tashqi: “...”
-- **HTML kodlari:** `&ldquo;` (ochish) va `&rdquo;` (yopish)
-- **Unicode kodlari:** `&#8220;` (ochish) va `&#8221;` (yopish)
-- **Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0147` (ochish) yoki `0148` (yopish) tering.
-- **macOS**ʼda kiritish uchun `Option + [` (ochish) yoki `Option + Shift + [` (yopish) tugmalarini bosing.
-
-Ichki: ‘...’
-- **HTML kodlari:** `&lsquo;` (ochish) va `&rsquo;` (yopish)
-- **Unicode kodlari:** `&#8216;` (ochish) va `&#8217;` (yopish)
-- **Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0145` (ochish) yoki `0146` (yopish) tering.
-- **macOS**ʼda kiritish uchun `Option + ]` (ochish) yoki `Option + Shift + ]` (yopish) tugmalarini bosing.
-
 ---
 
 **Kirill oʻzbek yozuvi:** Kirill alifbosidagi oʻzbek tilida asosiy (tashqi) qoʻshtirnoqlar sifatida «...» (fransuzcha yoki “dubl-shevron”) qoʻshtirnoqlaridan foydalaniladi. Agar ularning ichida qoʻshtirnoqlar kerak boʻlsa, „...“ (nemischa “dubl-sferik”) qoʻshtirnoqlari ishlatiladi.
 
 - **Misol:** У шундай деди: «Унга „салом“ деганимни айтинг».
-
-#### Kiritish usullari
-
-Tashqi: «...»
-- **HTML kodlari:** `&laquo;` (ochish) va `&raquo;` (yopish)
-- **Unicode kodlari:** `&#171;` (ochish) va `&#187;` (yopish)
-- **Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0171` (ochish) yoki `0187` (yopish) tering.
-
-Ichki: „...“
-- **HTML kodlari:** yoʻq
-- **Unicode kodlari:** `&#8222;` (ochish) va `&#8220;` (yopish)
 
 ## Tire belgilari
 
@@ -85,21 +61,11 @@ Ichki: „...“
 
 - **Misol:** 2020–2025 yillar, 12:00–14:00, Toshkent–Samarqand.
 
-**HTML kodi:** `&ndash;` \
-**Unicode kodi:** `&#8211;`
-
-**Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0150` ni tering. **macOS**ʼda kiritish uchun `Option + - (defis)` tugmalarini bosing.
-
 ---
 
 **Uzun tire** (Em dash, —): Bu belgi fikrni, izohni yoki maʼnoni ajratib koʻrsatish uchun ishlatiladi. Gap ichida undan oldin va keyin boʻsh joy qoldirilmaydi.
 
 - **Misol:** Mening hayotim — bu kurash. Buni unga aytdim — lekin u eshitmadi.
-
-**HTML kodi:** `&mdash;` \
-**Unicode kodi:** `&#8212;`
-
-**Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0151` ni tering. **macOS**ʼda kiritish uchun `Option + Shift + - (defis)` tugmalarini bosing.
 
 ## Uzilmas boʻshliq (Non-breaking space)
 
@@ -113,8 +79,17 @@ Qoidalar:
 
 - Qisqartmalar bilan bogʻliq soʻzlarda, masalan, F. I. O..
 
-**HTML kodi:** `&nbsp;` \
-**Unicode kodi:** `&#160;`
+## Kiritish usullari
 
-**Windows**ʼda kiritish uchun `Alt` tugmasini bosib turgan holda, raqamlar klaviaturasida `0160` ni tering. **macOS**ʼda kiritish uchun `Option + Space` tugmalarini bosing.
+| Belgi | HTML kod | Windows* | MacOS |
+| --- | --- | --- | --- |
+| Tutuq belgisi | `&#x02BC;` | | |
+| “” (qoʻshtirnoqlar) | `&ldquo;`, `&rdquo;` | `Alt` + `0147`; `Alt` + `0148` | `Option` + `[`; `Option` + `Shift` + `[` |
+| ‘’ (birtirnoqlar) | `&lsquo;`, `&rsquo;` | `Alt` + `0145`; `Alt` + `0146` | `Option` + `]`; `Option` + `Shift` + `]` |
+| «» (Shevron) | `&laquo;`, `&raquo;` | `Alt` + `0171`; `Alt` + `0187` | |
+| „“ (nemischa qoʻshtirnoqlar) | `&#8222;`, `&#8220;` | | |
+| – (en dash) | `&ndash;` | `Alt` + `0150` | `Option` + `-` (defis) |
+| — (em dash) | `&mdash;` | `Alt` + `0151` | `Option` + `Shift` + `-` (defis) |
+| Uzilmas boʻshliq | `&nbsp;` | `Alt` + `0160` | `Option` + `Boʻshliq` |
 
+* Windowsʼda kiritish uchun `Alt` tugmasini bosib turgan holda raqamlar klaviaturasida (numpad) raqamlarni kiriting.
