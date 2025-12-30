@@ -2,6 +2,10 @@
 
 Oʻzbek Mahalliylashtirish hamjamiyati tomonidan yaratilgan va yozilgan qoida va lugʻatlar jamgʻarmasi.
 
+- ʻ (U+02BB) — oʻ va gʻ harflaridagi teskari vergul uchun.
+
+- ʼ (U+02BC) — tutuq belgisi uchun.
+
 ## Dasturchilar uchun
 
 Kitobni localda ishga tushirish.
