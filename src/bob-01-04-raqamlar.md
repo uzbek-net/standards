@@ -40,19 +40,34 @@ birliklarining qisqartmalari lotin harflarida (masalan, **m**, **kg**, **s**)
 yozilishi shart.
 
 - **Boʻshliq qoldirish:** Raqam va oʻlchov birligi orasida har doim
-**uzilmas boʻshliq** (non-breaking space, &nbsp;) qoʻyilishi kerak.
+**uzilmas boʻshliq** (non-breaking space, \&nbsp;) qoʻyilishi kerak.
   - **Toʻgʻri:** 10&nbsp;kg
   - **Xato:** 10kg
 
 - **Nuqta qoʻymaslik:** Oʻlchov birliklarining qisqartmalaridan soʻng
 nuqta qoʻyilmaydi (agar u gapning oxirida kelmagan boʻlsagina).
-  - **Toʻgʻri:** "Fayl hajmi 15 MB ga teng."
-  - **Xato:** "Fayl hajmi 15 MB. ga teng."
+  - **Toʻgʻri:** "Fayl hajmi 15&nbsp;MB ga teng."
+  - **Xato:** "Fayl hajmi 15&nbsp;MB. ga teng."
 
 - **Katta-kichik harflar:** Birlik belgilarida harflarning registri
 (katta-kichikligi) muhim ahamiyatga ega. Masalan, millivatt (mW) va megavatt
 (MW) bir-biridan farq qiladi.
 
+#### 3. Toʻliq va qisqartirilgan shakllarning qoʻllanilishi
+
+Oʻlchov birliklarini interfeysda qanday yozish matnning joylashuvi va
+kontekstiga bogʻliq:
+
+- **Qisqartirilgan shakllar (Xalqaro):** Agar oʻlchov birligi raqamdan keyin
+qisqartma shaklda kelish kerak boʻlsa, faqat xalqaro lotin belgilaridan
+foydalaniladi.
+  - **Misol:** **5&nbsp;kg**, **10&nbsp;m**, **2&nbsp;h**.
+
+- **Toʻliq yozilgan shakllar (Oʻzbekcha):** Agar oʻlchov birligi gap
+ichida yoki interfeys elementida toʻliq soʻz bilan yozilsa, u oʻzbek tili
+imlosiga koʻra mahalliylashtiriladi.
+  - **Misol:** "Ogʻirligi 5&nbsp;**kilogramm**dan kam boʻlmasligi kerak."
+  - **Misol:** "Kutish vaqti: 2&nbsp;**soat**."
 
 ### Kasr va minglik ajratgichlar
 
